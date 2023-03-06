@@ -2,6 +2,7 @@
   "providers": {
     "BSC_TESTNET": "https://data-seed-prebsc-1-s3.binance.org:8545/",
     "AVAX_TESTNET": "https://api.avax-test.network/ext/bc/C/rpc",
-    "MUMBAI_TESTNET": "https://rpc-mumbai.maticvigil.com/"
+    "MUMBAI_TESTNET": "https://rpc-mumbai.maticvigil.com/",
+    "FERRUM_TESTNET": "http://testnet.dev.svcs.ferrumnetwork.io:9933"
   }
 }
