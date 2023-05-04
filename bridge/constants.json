@@ -16,7 +16,8 @@
         "FTM_MAINNET": "https://ftmscan.com/tx/{}",
         "SHIDEN_TESTNET": "https://shibuya.subscan.io/tx/{}",
         "SHIDEN_MAINNET": "https://blockscout.com/shiden/tx/{}",
-        "FERRUM_TESTNET": "http://testnet.dev.svcs.ferrumnetwork.io:9933"
+        "FERRUM_TESTNET": "http://testnet.dev.svcs.ferrumnetwork.io:9933",
+        "ETHEREUM_ARBITRUM": "https://arbiscan.io/tx/{}"
     },
     "explorerLinkForAddress": {
         "RINKEBY": "https://rinkeby.etherscan.io/address/{}",
@@ -25,7 +26,8 @@
         "BSC_TESTNET": "https://testnet.bscscan.com/address/{}",
         "MUMBAI_TESTNET": "https://mumbai.polygonscan.com/address/{}",
         "POLYGON": "https://polygonscan.com/address/{}",
-        "FERRUM_TESTNET": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet.dev.svcs.ferrumnetwork.io#/explorer"
+        "FERRUM_TESTNET": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet.dev.svcs.ferrumnetwork.io#/explorer",
+        "ETHEREUM_ARBITRUM": "https://arbiscan.io/address/{}"
     },
     "bridgeNetworks": [
         "ETHEREUM",
