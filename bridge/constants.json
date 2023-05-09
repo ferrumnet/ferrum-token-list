@@ -66,6 +66,7 @@
         "FTM_TESTNET": "https://i.imgur.com/6K5JdEA.png",
         "SHIDEN_MAINNET": "https://i.imgur.com/g3HAflj.png",
         "SHIDEN_TESTNET": "https://i.imgur.com/g3HAflj.png",
-        "FERRUM_TESTNET": "https://etherscan.io/token/images/ferrumnetwork_32.png?=v454"
+        "FERRUM_TESTNET": "https://etherscan.io/token/images/ferrumnetwork_32.png?=v454",
+        "ETHEREUM_ARBITRUM": "https://arbiscan.io/token/images/arbitrumone2_32_new.png?v=23.05.1.1"
     }
 }
