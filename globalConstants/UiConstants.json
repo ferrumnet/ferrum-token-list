@@ -3,6 +3,11 @@
     "BSC_TESTNET": "https://data-seed-prebsc-1-s3.binance.org:8545/",
     "AVAX_TESTNET": "https://api.avax-test.network/ext/bc/C/rpc",
     "MUMBAI_TESTNET": "https://rpc-mumbai.maticvigil.com/",
-    "FERRUM_TESTNET": "http://testnet.dev.svcs.ferrumnetwork.io:9933"
+    "FERRUM_TESTNET": "http://testnet.dev.svcs.ferrumnetwork.io:9933",
+    "BSC": "https://bsc-dataseed3.binance.org",
+    "ETHEREUM": "https://rpc.ankr.com/eth",
+    "POLYGON": "https://polygon-rpc.com",
+    "ETHEREUM_ARBITRUM": "https://arbitrum-one.publicnode.com",
+    "AVAX_MAINNET": "https://api.avax.network/ext/bc/C/rpc"
   }
 }
