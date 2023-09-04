@@ -780,6 +780,22 @@
          "symbol":"VVT",
          "decimals":18,
          "logoURI":"https://versoview.com/wp-content/uploads/2021/05/cropped-favicon-32x32.png"
+      },
+      {
+         "address":"0xe685d3CC0be48BD59082eDe30C3b64CbFc0326e2",
+         "chainId":42161,
+         "name":"cFrm",
+         "symbol":"cFrm",
+         "decimals":18,
+         "logoURI":"https://gateway.ferrumnetwork.io/static/media/icon-network-cfrm.a210a35f.svg"
+      },
+      {
+         "address":"0xaf329a957653675613D0D98f49fc93326AeB36Fc",
+         "chainId":56,
+         "name":"cFrm",
+         "symbol":"cFrm",
+         "decimals":18,
+         "logoURI":"https://gateway.ferrumnetwork.io/static/media/icon-network-cfrm.a210a35f.svg"
       }
    ]
 }
