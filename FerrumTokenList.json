@@ -67,7 +67,7 @@
          "name":"Rocket Vault (PoS) (RVF)",
          "symbol":"RVF",
          "decimals":18,
-         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+         "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
          "address":"0x10528015eb4a47765acafd7711f96042ad75ee4d",
@@ -115,7 +115,7 @@
          "name":"Rocket Vault (PoS) (RVF)",
          "symbol":"RVF",
          "decimals":18,
-         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+         "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
          "address":"0x1a4fa8b00db7f5f227145a97d7e28bb2e0defbf4",
@@ -123,7 +123,7 @@
          "name":"Rocket Vault (PoS) (RVF)",
          "symbol":"RVF",
          "decimals":18,
-         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+         "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
          "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
@@ -203,7 +203,7 @@
          "name":"Rocket Vault",
          "symbol":"RVF",
          "decimals":18,
-         "logoURI":"https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+         "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
          "address":"0x7bfd49dc6295afd85d3f9c044c8386e3e4c8a75d",
@@ -211,7 +211,7 @@
          "name":"Rocket Vault",
          "symbol":"RVF",
          "decimals":18,
-         "logoURI":"https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+         "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
          "address":"0x44f262622248027f8e2a8fb1090c4cf85072392c",
@@ -379,7 +379,7 @@
          "name":"RocketVaultRocketX",
          "symbol":"RVF",
          "decimals":18,
-         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+         "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
          "address":"0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
