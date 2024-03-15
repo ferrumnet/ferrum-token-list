@@ -198,7 +198,7 @@
          "logoURI":"https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564"
       },
       {
-         "address":"0x7bfd49dc6295afd85d3f9c044c8386e3e4c8a75d",
+         "address":"0x2fb652314c3d850e9049057bbe9813f1eee882d3",
          "chainId":1,
          "name":"Rocket Vault",
          "symbol":"RVF",
@@ -206,7 +206,7 @@
          "logoURI":"https://gateway-s3-dev.s3.us-east-2.amazonaws.com/crucible/ferrum-theme/Circle+Logo+RocketX-01.png"
       },
       {
-         "address":"0x7bfd49dc6295afd85d3f9c044c8386e3e4c8a75d",
+         "address":"0x2fb652314c3d850e9049057bbe9813f1eee882d3",
          "chainId":1,
          "name":"Rocket Vault",
          "symbol":"RVF",
@@ -374,7 +374,7 @@
          "logoURI":" http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
       },
       {
-         "address":"0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
+         "address":"0x267e0c7456df5254492127ea7b2e14e556b492b8",
          "chainId":56,
          "name":"RocketVaultRocketX",
          "symbol":"RVF",
