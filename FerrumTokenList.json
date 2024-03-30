@@ -807,10 +807,10 @@
       },
       {
          "address": "0x9caae40dcf950afea443119e51e821d6fe2437ca",
-         "chainId": 1,
+         "chainId": 42161,
          "name": "Blocjerk",
          "symbol": "BJ",
-         "decimals": 42161,
+         "decimals": 18,
          "logoURI":"https://blocjerk.gitbook.io/~gitbook/image?url=https:%2F%2F2106947016-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F1LyCI3vkzdfaG9llqpvN%252Ficon%252FU5ylslc1zh2sbHz3WM2d%252FBJ%2520LOGO%2520PNG%2520ORGANGE%2520ICON.png%3Falt=media%26token=b2dac292-f6dc-4c6a-a89a-60451ebe90fe&width=32&dpr=2&quality=100&sign=92bd050ef26033e480c9a9313480ef3d1927ee12c0a5581e783ff79d60be01c7"
       }
    ]
