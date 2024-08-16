@@ -9,6 +9,6 @@
     "POLYGON": "https://polygon-rpc.com",
     "ETHEREUM_ARBITRUM": "https://arbitrum-one.publicnode.com",
     "AVAX_MAINNET": "https://api.avax.network/ext/bc/C/rpc",
-    "BASE": "https://1rpc.io/base"
+    "BASE_MAINNET": "https://1rpc.io/base"
   }
 }
