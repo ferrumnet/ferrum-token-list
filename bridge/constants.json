@@ -47,7 +47,8 @@
         "SHIDEN_MAINNET",
         "HARMONY_MAINNET_0",
         "FERRUM_TESTNET",
-        "ETHEREUM_ARBITRUM"
+        "ETHEREUM_ARBITRUM",
+        "BASE_MAINNET"
     ],
     "networkLogos": {
         "ETHEREUM": "https://i.imgur.com/xaaAZFT.png",
@@ -67,6 +68,7 @@
         "SHIDEN_MAINNET": "https://i.imgur.com/g3HAflj.png",
         "SHIDEN_TESTNET": "https://i.imgur.com/g3HAflj.png",
         "FERRUM_TESTNET": "https://etherscan.io/token/images/ferrumnetwork_32.png?=v454",
-        "ETHEREUM_ARBITRUM": "https://arbiscan.io/token/images/arbitrumone2_32_new.png?v=23.05.1.1"
+        "ETHEREUM_ARBITRUM": "https://arbiscan.io/token/images/arbitrumone2_32_new.png?v=23.05.1.1",
+        "BASE_MAINNET": "https://images.mirror-media.xyz/publication-images/cgqxxPdUFBDjgKna_dDir.png?height=50&width=50"
     }
 }
