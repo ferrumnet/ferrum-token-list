@@ -47,8 +47,7 @@
         "SHIDEN_MAINNET",
         "HARMONY_MAINNET_0",
         "FERRUM_TESTNET",
-        "ETHEREUM_ARBITRUM",
-        "BASE_MAINNET"
+        "ETHEREUM_ARBITRUM"
     ],
     "networkLogos": {
         "ETHEREUM": "https://i.imgur.com/xaaAZFT.png",
