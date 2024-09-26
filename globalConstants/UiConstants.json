@@ -4,6 +4,7 @@
     "AVAX_TESTNET": "https://api.avax-test.network/ext/bc/C/rpc",
     "MUMBAI_TESTNET": "https://rpc-mumbai.maticvigil.com/",
     "FERRUM_TESTNET": "https://testnet.dev.svcs.ferrumnetwork.io",
+    "FERRUM_MAINNET": "https://qpn.svcs.ferrumnetwork.io",
     "BSC": "https://bsc-dataseed3.binance.org",
     "ETHEREUM": "https://rpc.ankr.com/eth",
     "POLYGON": "https://polygon-rpc.com",
