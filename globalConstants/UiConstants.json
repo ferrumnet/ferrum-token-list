@@ -6,7 +6,7 @@
     "FERRUM_TESTNET": "https://testnet.dev.svcs.ferrumnetwork.io",
     "FERRUM_MAINNET": "https://qpn.svcs.ferrumnetwork.io",
     "BSC": "https://bsc-dataseed3.binance.org",
-    "ETHEREUM": "https://rpc.ankr.com/eth",
+    "ETHEREUM": "https://eth.llamarpc.com",
     "POLYGON": "https://polygon-rpc.com",
     "ETHEREUM_ARBITRUM": "https://arbitrum-one.publicnode.com",
     "AVAX_MAINNET": "https://api.avax.network/ext/bc/C/rpc",
